@@ -1,0 +1,146 @@
+﻿  Reading Qt configuration (D:/QT/6.3.0/msvc2019_64/bin/qmake)
+  moc mainwindow.h
+  main.cpp
+  mainwindow.cpp
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x14c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x259 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x14d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x155 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x156 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x157 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x25c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x159 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x15d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x15e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x16b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x16c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x260 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x16f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x170 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\main.cpp(1,1): warning C4828: 文件包含在偏移 0x174 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x262 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x263 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x267 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x269 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x28d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x28f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x292 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x296 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x315 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x317 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 mainwindow.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x259 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x25c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x260 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x262 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x263 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x267 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x269 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x28d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x28f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x292 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x296 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x315 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x317 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。 (编译源文件 main.cpp)
+  moc_mainwindow.cpp
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x257 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x259 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x25c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x260 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x262 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x263 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x267 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x269 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x26e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x272 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x28d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x28f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x292 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x296 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2d8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x310 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x311 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x313 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x315 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x316 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x317 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+D:\Desktop\project_5.0\project_5.0\mainwindow.h(1,1): warning C4828: 文件包含在偏移 0x31b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  project_5.0.vcxproj -> D:\Desktop\project_5.0\x64\Debug\project_5.0.exe

@@ -1,0 +1,50 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/last.png</file>
+        <file>icon/love_0.png</file>
+        <file>icon/love_1.jpg</file>
+        <file>icon/next.png</file>
+        <file>icon/order_random.png</file>
+        <file>icon/order_sequential.png</file>
+        <file>icon/order_single.png</file>
+        <file>icon/play_off.png</file>
+        <file>icon/play_on.png</file>
+        <file>icon/screen_full.png</file>
+        <file>icon/screen_window.png</file>
+        <file>icon/set.png</file>
+        <file>icon/speed_0.5.png</file>
+        <file>icon/speed_1.0.png</file>
+        <file>icon/speed_2.0.png</file>
+        <file>icon/speed_1.2.png</file>
+        <file>icon/speed_1.5.png</file>
+        <file>icon/upend.png</file>
+        <file>icon/voice_off.png</file>
+        <file>icon/voice_on.png</file>
+        <file>icon/media_close.png</file>
+        <file>icon/media_open.png</file>
+        <file>icon/background0.jpg</file>
+        <file>icon/background1.jpg</file>
+        <file>icon/background2.jpg</file>
+	<file>icon/background3.jpg</file>
+	<file>icon/background4.jpg</file>
+        <file>icon/background5.jpg</file>
+	<file>icon/background6.jpg</file>
+        <file>icon/background7.jpg</file>
+	<file>icon/background8.jpg</file>
+        <file>icon/background9.jpg</file>
+	<file>icon/background10.jpg</file>
+        <file>icon/volume.png</file>
+	<file>icon/start_play.png</file>
+	<file>icon/folder.png</file>
+	<file>icon/wall_paper.png</file>
+	<file>icon/image0.jpg</file>
+	<file>icon/image1.jpg</file>
+	<file>icon/image2.jpg</file>
+	<file>icon/image3.jpg</file>
+	<file>icon/image4.jpg</file>
+
+
+
+        
+    </qresource>
+</RCC>
